@@ -1,8 +1,8 @@
 package pro.sky.course2;
 
 import org.junit.jupiter.api.Test;
-import service.JavaQuestionService;
-import service.QuestionService;
+import pro.sky.course2.service.JavaQuestionService;
+import pro.sky.course2.service.QuestionService;
 
 import java.util.Collection;
 import java.util.HashSet;

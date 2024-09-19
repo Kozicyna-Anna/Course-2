@@ -1,7 +1,7 @@
 package pro.sky.course2;
 
 import org.springframework.web.bind.annotation.*;
-import service.QuestionService;
+import pro.sky.course2.service.QuestionService;
 
 import java.util.Collection;
 

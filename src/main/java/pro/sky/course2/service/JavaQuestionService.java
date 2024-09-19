@@ -1,11 +1,9 @@
-package service;
+package pro.sky.course2.service;
 
 import org.springframework.stereotype.Service;
 import pro.sky.course2.Question;
 
 import java.util.*;
-
-import static java.util.Collections.unmodifiableCollection;
 
 @Service
 public class JavaQuestionService implements QuestionService {

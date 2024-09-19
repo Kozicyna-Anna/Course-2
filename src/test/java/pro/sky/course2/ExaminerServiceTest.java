@@ -1,14 +1,13 @@
 package pro.sky.course2;
 
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
-import service.ExaminerServiceImpl;
-import service.QuestionService;
+import pro.sky.course2.service.ExaminerServiceImpl;
+import pro.sky.course2.service.QuestionService;
 
 import java.util.Collection;
 import java.util.Objects;
